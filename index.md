@@ -15,7 +15,6 @@ Although we don't collect any personal data from users directy, the app does use
 Links to the privacy policies of the third-party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Yandex](https://yandex.ru/legal/confidential/?lang=en)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 
 
