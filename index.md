@@ -16,7 +16,7 @@ Links to the privacy policies of the third-party service providers used by the a
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
-
+*   [Appmetrica](https://yandex.ru/legal/confidential/?lang=en)
 
 **Cookies**
 
